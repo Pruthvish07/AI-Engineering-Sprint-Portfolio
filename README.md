@@ -11,7 +11,7 @@
 ## 📌 Executive Summary
 This repository serves as the central hub tracking the architecture, experiments, and live deployments of 5 industry-grade AI systems across FinTech, Healthcare, Retail, Logistics, and LegalTech. 
 
-🔗 **[View Live Kanban Progress Board Here](INSERT_YOUR_GITHUB_PROJECT_LINK_HERE)**
+🔗 **[View Live Kanban Progress Board Here](https://github.com/users/Pruthvish07/projects/2)**
 
 ---
 
